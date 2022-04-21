@@ -14,3 +14,7 @@ Para iniciar o monitoramento da pasta
 ```
 git init
 ```
+
+git add README.md
+
+git status
