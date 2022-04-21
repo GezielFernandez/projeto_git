@@ -13,7 +13,7 @@ $ git config --global user.email "geziel-ft@outlook.com"
 Para iniciar o monitoramento da pasta
 ```
 git init
-```
+
 
 git add README.md
 
@@ -27,3 +27,4 @@ git log --> mostra os commits feitos
 git remote add origin https://github.com/GezielFernandez/projeto_git.git
 
 git push -u origin main
+```
